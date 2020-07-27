@@ -10,10 +10,21 @@
 
 
 
-    
+
 }
 .landing-page2 {
     background-image: url(../assets/backgrounds/s_image.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    color: black;
+    display : flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-page3 {
+    background-image: url(../assets/backgrounds/c_image.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
